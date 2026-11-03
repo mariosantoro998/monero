@@ -79,10 +79,10 @@ The Monero donation address is:
 Viewkey:  
 `f359631075708155cc3d92a32b75a7d02a5dcf27756707b47a2b31b21c389501`  
 Base address for restoring with address and viewkey:  
-`44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A`
+`45gR8L7MrSFdZMSBA5bntpM8bBgrGWtyXTHsFRttMBvt2kgpEVHQfEtdN9NfddbUbzK2ubCTxFezDfDB3DpSkN9CScYipox`
 
 The Bitcoin donation address is:  
-`1KTexdemPdxSBcG55heUuTjDRYqbC5ZL8H`
+`bc1qujzg4h8lsdhwh5c0he4dahz9pfl6afrjrka47n`
 
 Core development funding and/or some supporting services are also graciously provided by [sponsors](https://www.getmonero.org/community/sponsorships/):
 
